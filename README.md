@@ -1,0 +1,2 @@
+# goservice
+A Golang app
